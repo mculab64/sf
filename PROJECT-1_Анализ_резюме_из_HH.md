@@ -2,6 +2,8 @@
 
 ## Оглавление
 
+[About](#about)
+
 [1. Постановка задачи](#1. Постановка задачи)
 
 [2. Исследование структуры данных](#2-исследование-структуры-данных)
@@ -20,7 +22,7 @@
 
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/7411a8e45affb7f8c37df2bb2ff1a8e4/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/dst-3.0_16_1_0.png)
 
-### **<center> <span style="color:green"> ОПИСАНИЕ ЗАДАЧИ </span> </center>**
+### **<center> <span style="color:green"> ОПИСАНИЕ ЗАДАЧИ#about </span> </center>**
 
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
